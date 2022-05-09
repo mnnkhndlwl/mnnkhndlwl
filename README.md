@@ -1,4 +1,4 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://www.linkedin.com/in/manan-khandelwal-327836167/)
+
 <h1 align="center">Hi 👋, I'm Manan Khandelwal 👨‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnnkhndlwl&label=Profile%20views&color=0e75b6&style=flat" alt="mnnkhndlwl" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
