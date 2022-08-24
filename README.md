@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mnnkhndlwl?tab=repositories](https://github.com/mnnkhndlwl?tab=repositories)
 
-- ⚡ Fun fact **I am just a noob**
+- ⚡ Leetcode Profile : https://leetcode.com/Grx_9/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
