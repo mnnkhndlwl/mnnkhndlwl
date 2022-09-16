@@ -39,6 +39,7 @@ I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indrapr
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://training.galaxyproject.org/archive/2022-06-01/topics/admin/images/docker_whale.png" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ### Socials
