@@ -11,6 +11,11 @@ I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indrapr
 * ✉️  You can contact me at [mnnkhndlwl24@gmail.com](mailto:mnnkhndlwl24@gmail.com)
 * 🧠  I'm learning DevOps
 * ⚡  Leetcode Profile : https://leetcode.com/Grx_9/
+---
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=mnnkhndlwl&column=8)](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)
+
+---
 
 ### Skills
 
@@ -45,7 +50,6 @@ I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indrapr
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mnnkhndlwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manan-khandelwal-327836167" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MKhndlwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
