@@ -59,6 +59,8 @@ I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indrapr
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" />
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+
 </code> <br>
 </div>
 <code>
