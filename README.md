@@ -31,43 +31,29 @@ I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indrapr
 <div align="center">
 <div align="center">
 <div align="center">
-<code>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-</code> <br>
 </div>
-<code>
 <img src="https://img.icons8.com/fluency/48/null/c-programming.png"  alt="C" />
 <img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="C++" />
-</code> <br>
 </div>
-<code>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/512/flutter.png"/>
-</code><br>
 </div>
-<code>
 <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
 <img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" />
 <img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" />
 <img src="https://img.icons8.com/office/40/null/react.png"  alt="React" />
-</code> <br>
 </div>
-<code>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTNSVIlA6JHByDiyUHEJOTPeRIfKFmbVpPWjt5GQDSsbuUvjVxVFUNmPhXk2ZAN6C7s60&usqp=CAU" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" />
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-
-</code> <br>
 </div>
-<code>
 <img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" />
 <img src="https://img.icons8.com/color/48/null/bootstrap.png" alt="Bootstrap" />
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-</code>
 </div>
 
 
