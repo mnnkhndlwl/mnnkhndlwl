@@ -17,44 +17,11 @@ I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indrapr
 * 🧠  I'm learning DevOps
 * ⚡  Leetcode Profile : https://leetcode.com/Grx_9/
 
-<h3 align="left">Connect with me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
-<p align="left">
-<p align="left"> <a href="https://www.github.com/mnnkhndlwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manan-khandelwal-327836167" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev4.07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-khandelwal-327836167/)
 
-</p>
-
-<h2 align="center">Skills</h2>
-<br/>
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-</div>
-<img src="https://img.icons8.com/fluency/48/null/c-programming.png"  alt="C" />
-<img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="C++" />
-</div>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/512/flutter.png"/>
-</div>
-<img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
-<img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" />
-<img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" />
-<img src="https://img.icons8.com/office/40/null/react.png"  alt="React" />
-</div>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTNSVIlA6JHByDiyUHEJOTPeRIfKFmbVpPWjt5GQDSsbuUvjVxVFUNmPhXk2ZAN6C7s60&usqp=CAU" width="48" height="48" />
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" />
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-</div>
-<img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" />
-<img src="https://img.icons8.com/color/48/null/bootstrap.png" alt="Bootstrap" />
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-</div>
+## 💻 Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
 ## Stats
