@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/mnnkhndlwl?logo=github&style=for-th
 I'm a 3rd year student pursuing BTECH in CSE 🎓 from Guru Gobind Singh Indraprastha University
 
 * 🌍  I'm based in New Delhi,India
-* 🖥️  See my portfolio at [My Portfolio](http://mnnkhndlwl-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://3d-portfolio-zeta.vercel.app/)
 * ✉️  You can contact me at [mnnkhndlwl24@gmail.com](mailto:mnnkhndlwl24@gmail.com)
 * 🧠  I'm learning DevOps
 * ⚡  Leetcode Profile : https://leetcode.com/Grx_9/
